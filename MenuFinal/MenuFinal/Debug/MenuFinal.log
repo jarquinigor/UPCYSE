@@ -1,0 +1,67 @@
+﻿  frmConfig.cpp
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\frmConfig.h(250): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\frmConfig.h(251): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+  frmInfo.cpp
+  frmJuego.cpp
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBala.h(32): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBala.h(38): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBala.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrAlfa.h(32): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrAlfa.h(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrAlfa.h(47): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrGamma.h(26): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrGamma.h(35): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrGamma.h(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrGamma.h(47): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBeta.h(26): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBeta.h(35): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBeta.h(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CControladora.h(329): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CControladora.h(330): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\frmJuego.h(194): warning C4101: 'vidasCargadas': variable local sin referencia
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\frmJuego.h(195): warning C4101: 'nivelCargado': variable local sin referencia
+  frmMDI.cpp
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\frmConfig.h(250): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\frmConfig.h(251): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBala.h(32): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBala.h(38): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBala.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrAlfa.h(32): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrAlfa.h(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrAlfa.h(47): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrGamma.h(26): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrGamma.h(35): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrGamma.h(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrGamma.h(47): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBeta.h(26): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBeta.h(35): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBeta.h(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CControladora.h(329): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CControladora.h(330): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\frmJuego.h(194): warning C4101: 'vidasCargadas': variable local sin referencia
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\frmJuego.h(195): warning C4101: 'nivelCargado': variable local sin referencia
+  frmPrincipal.cpp
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\frmConfig.h(250): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\frmConfig.h(251): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBala.h(32): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBala.h(38): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBala.h(43): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrAlfa.h(32): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrAlfa.h(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrAlfa.h(47): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrGamma.h(26): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrGamma.h(35): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrGamma.h(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrGamma.h(47): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBeta.h(26): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBeta.h(35): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CArrBeta.h(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CControladora.h(329): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\CControladora.h(330): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\frmJuego.h(194): warning C4101: 'vidasCargadas': variable local sin referencia
+c:\users\51987\desktop\universidad cursos\2do ciclo\programación ii\trabajo final programación 2\trabajo final\menufinal\menufinal\frmJuego.h(195): warning C4101: 'nivelCargado': variable local sin referencia
+  Generando código...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  frmConfig.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  MenuFinal.vcxproj -> C:\Users\51987\Desktop\Universidad Cursos\2do Ciclo\Programación II\TRABAJO FINAL PROGRAMACIÓN 2\Trabajo Final\MenuFinal\Debug\MenuFinal.exe
+  MenuFinal.vcxproj -> C:\Users\51987\Desktop\Universidad Cursos\2do Ciclo\Programación II\TRABAJO FINAL PROGRAMACIÓN 2\Trabajo Final\MenuFinal\Debug\MenuFinal.pdb (Partial PDB)
